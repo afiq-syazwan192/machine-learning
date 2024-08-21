@@ -21,4 +21,4 @@ If you're new to machine learning or this repository, here are some steps to get
 
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/yourusername/machine-learning-journey.git
+   git clone https://github.com/afiq-syazwan192/machine-learning-journey.git
